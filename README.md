@@ -1,1 +1,10 @@
-Calendar_Diary_GUI_and_Natural_language_generation_with_RNN
+# Calendar Diary GUI using Tkinter 
+
+A calendar desktop-app-like GUI using Python Python-Tkinter.
+
+# Natural language generation with RNN
+
+
+
+The saved text is used as training data on an NLG Recurrent Neural Network
+
