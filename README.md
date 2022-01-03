@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Diary GUI using Tkinter 
 This application is built with Python Tkinter
 
@@ -50,3 +51,15 @@ We then apply tf.strings.reduce_join to join the characters back into strings wh
 ![Model details](my_model.PNG)
 
  
+=======
+# Calendar Diary GUI using Tkinter 
+
+A calendar desktop-app-like GUI using Python Python-Tkinter.
+
+# Natural language generation with RNN
+
+
+
+The saved text is used as training data on an NLG Recurrent Neural Network
+
+>>>>>>> 564d7b4b7037ada6ae12307e558ded21a7101956
