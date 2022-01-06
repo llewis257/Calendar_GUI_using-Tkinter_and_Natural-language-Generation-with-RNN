@@ -1,6 +1,9 @@
 
-# Diary GUI using Tkinter 
-This application is built with Python Tkinter
+# Diary GUI & Natural language Generation
+
+This application is a personal journal that saves written text. It is also extended with an extra feature that generates text using the saved text (A collection of personal writing). \
+This application is built with Python Tkinter. \
+The text generation using Tensorflow and NumPy.
 
 ## Description 
 
